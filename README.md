@@ -45,14 +45,14 @@ Quarto 9: VAGO.
 css
 Copiar
 Editar
-📂 projeto-reserva-quartos
- ┣ 📂 src
- ┃ ┣ 📂 application
- ┃ ┃ ┗ 📜 Main.java
- ┃ ┣ 📂 entities
- ┃ ┃ ┗ 📜 Dados.java
- ┣ 📜 README.md
- ┗ 📜 .gitignore
+<p>📂 projeto-reserva-quartos</p>
+<p> ┣ 📂 src</p>
+<p> ┃ ┣ 📂 application</p>
+<p> ┃ ┃ ┗ 📜 Main.java</p>
+<p> ┃ ┣ 📂 entities</p>
+<p> ┃ ┃ ┗ 📜 Dados.java</p>
+<p> ┣ 📜 README.md</p>
+<p> ┗ 📜 .gitignore</p>
 
 ## 📝 Melhorias futuras
 Implementar um menu interativo para facilitar o cadastro e consulta.
