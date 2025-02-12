@@ -41,7 +41,7 @@ Quarto 8: VAGO.
 Quarto 9: VAGO.
 
 
-##📄 Estrutura do projeto
+## 📄 Estrutura do projeto
 css
 Copiar
 Editar
@@ -54,13 +54,15 @@ Editar
  ┣ 📜 README.md
  ┗ 📜 .gitignore
 
-##📝 Melhorias futuras
+## 📝 Melhorias futuras
 Implementar um menu interativo para facilitar o cadastro e consulta.
 Adicionar persistência de dados (salvar as reservas em um arquivo ou banco de dados).
 Criar uma interface gráfica para tornar o sistema mais amigável.
 
+------------
 📌 Autor
 Projeto desenvolvido por Luana Mendes.
 📧 Contato: luanamendes.pf@gmail.com
+------------
 
-
+<img src="https://github.com/lluanamendes/Sistema_de_Aluguel_de_Quartos/blob/main/Capturar.PNG?raw=true">
